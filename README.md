@@ -1,4 +1,4 @@
-# 🚀 Apex Library
+# Apex Library
 
    Apex Library
 
@@ -20,7 +20,7 @@ A Rust library to simplify tasks and experiments with modular design. Supports f
 
 ---
 
-## ⚙️ Features
+## Features
 
 - `core`: Core utilities (labels, string operations, etc.)
 - `features`: Extra functionalities (window creation, etc.)
@@ -30,7 +30,7 @@ A Rust library to simplify tasks and experiments with modular design. Supports f
 
 ---
 
-## 🛠 Installation
+## Installation
 
 **Add to your `Cargo.toml`:**
 
@@ -38,7 +38,7 @@ A Rust library to simplify tasks and experiments with modular design. Supports f
 [dependencies]
 apex = { path = "../apexlib" }
 ```
-# 📝 Usage
+# Usage
 ```rust
 use apexlib::*;
 ```
@@ -52,7 +52,7 @@ Open a 400x400 window
 
 // **And many ready-made functions and commands**
 
-# ⚡ Notes
+# Notes
 
     Fully compatible with Linux, macOS, and Windows
 
